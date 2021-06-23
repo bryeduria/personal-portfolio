@@ -4,7 +4,7 @@ class SkillsSection extends Component {
   render() {
     return (
       <>
-        <section id="#my_projects">
+        <section id="#my_skills">
           <div className="bg-black text-white py-20">
             <div className="container mx-auto flex flex-col md:flex-row items-center my-12 md:my-24">
               <div className="flex flex-col w-full lg:w-1/2 justify-center items-start p-8">
