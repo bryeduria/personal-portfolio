@@ -7,9 +7,9 @@ class SectionRoot extends Component {
   render() {
     return (
       <>
-        <WhoAmISection />;
-        <ProjectSection />;
-        <SkillsSection />;
+        <WhoAmISection />
+        <ProjectSection />
+        <SkillsSection />
       </>
     );
   }
